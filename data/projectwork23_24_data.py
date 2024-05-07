@@ -18,7 +18,7 @@ warehouses = {
         latitude=48.853,
         longitude=2.349,
         capacity=35000,
-        fixed_cost=0.0,
+        fixed_cost=120000.0,
     ),
     1: Warehouse(
         name="W1",
@@ -28,7 +28,7 @@ warehouses = {
         latitude=43.297,
         longitude=5.381,
         capacity=15000,
-        fixed_cost=0.0,
+        fixed_cost=80000.0,
     ),
     2: Warehouse(
         name="W2",
@@ -38,7 +38,7 @@ warehouses = {
         latitude=45.748,
         longitude=4.847,
         capacity=14000,
-        fixed_cost=0.0,
+        fixed_cost=85000.0,
     ),
     3: Warehouse(
         name="W3",
@@ -48,7 +48,7 @@ warehouses = {
         latitude=43.604,
         longitude=1.444,
         capacity=9000,
-        fixed_cost=0.0,
+        fixed_cost=90000.0,
     ),
     4: Warehouse(
         name="W4",
@@ -58,7 +58,7 @@ warehouses = {
         latitude=43.703,
         longitude=7.266,
         capacity=9000,
-        fixed_cost=0.0,
+        fixed_cost=80000.0,
     ),
     5: Warehouse(
         name="W5",
@@ -68,7 +68,7 @@ warehouses = {
         latitude=47.217,
         longitude=-1.553,
         capacity=20000,
-        fixed_cost=0.0,
+        fixed_cost=95000.0,
     ),
     6: Warehouse(
         name="W6",
@@ -78,7 +78,7 @@ warehouses = {
         latitude=48.584,
         longitude=7.746,
         capacity=9000,
-        fixed_cost=0.0,
+        fixed_cost=60000.0,
     ),
     7: Warehouse(
         name="W7",
@@ -88,7 +88,7 @@ warehouses = {
         latitude=44.84,
         longitude=-0.581,
         capacity=18000,
-        fixed_cost=0.0,
+        fixed_cost=92000.0,
     ),
     8: Warehouse(
         name="W8",
@@ -98,7 +98,7 @@ warehouses = {
         latitude=43.611,
         longitude=3.876,
         capacity=6000,
-        fixed_cost=0.0,
+        fixed_cost=90000.0,
     ),
     9: Warehouse(
         name="W9",
@@ -108,7 +108,7 @@ warehouses = {
         latitude=49.443,
         longitude=1.099,
         capacity=8000,
-        fixed_cost=0.0,
+        fixed_cost=70000.0,
     ),
     10: Warehouse(
         name="W10",
@@ -118,7 +118,7 @@ warehouses = {
         latitude=50.633,
         longitude=3.059,
         capacity=8000,
-        fixed_cost=0.0,
+        fixed_cost=85000.0,
     ),
 }
 
